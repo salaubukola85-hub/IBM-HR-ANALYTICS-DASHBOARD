@@ -1,8 +1,0 @@
-1. AttritionRate = DIVIDE([Total attrition], [Total Employee], 0)
-2. Avg. Job Satisfaction = AVERAGE('IBM HR Employee Attrition Data'[JobSatisfaction])
-3. Avg. Performance = AVERAGE('IBM HR Employee Attrition Data'[PerformanceRating])
-4. Due for promotion = CALCULATE([Total employee], 'IBM HR Employee Attrition Data'[promotion status] = "Due for promotion")
-5. Not Due for promotion = CALCULATE([Total employee],'IBM HR Employee Attrition Data'[promotion status] = "Not Due")
-6. Total attrition = calculate(countrows('IBM HR Employee Attrition Data'), 'IBM HR Employee Attrition Data'[Attrition] = "Yes")
-7. Total Employee = countrows('IBM HR Employee Attrition Data')
-8. Total Retention = calculate(countrows('IBM HR Employee Attrition Data'), 'IBM HR Employee Attrition Data'[Attrition] = "No")
