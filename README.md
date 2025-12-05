@@ -35,15 +35,15 @@ The Power BI dashboard contains the following key sections:
 
 1. Key Performance Indicators (KPIs)
 
- |KPI	     |Result
- 
- Total Employees	| 1,470
- Average Satisfaction Score |	2.73
- Total Attrition|	237 employees
-Attrition Rate |	16%
-Average Performance |	3.15
-Due for Promotion |	134 employees
-Not Due for Promotion	| 1,336 employees
+| KPI | Result |
+|----------------------|------------|
+| Total Employees | 1,470 |
+| Average Satisfaction | 2.73 |
+| Total Attrition | 273 employees |
+| Attrition Rate | 16% |
+| Avg. Performance | 3.15 | 
+| Due for promotion | 134 employees | 
+| Not Due for promotion | 1,336 employees |
 
 2. Department-Level Insights
 
